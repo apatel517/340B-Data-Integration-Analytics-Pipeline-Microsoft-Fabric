@@ -155,4 +155,4 @@ Each file contains hundreds of rows simulating real-world hospital pharmacy data
 
 ## 📄 View Full Project Documentation
 
-👉 **[Click here to view the complete PDF](./340B_Fabric_Project_Asad_Patel.pdf)**  
+👉 **[Click here to view the complete PDF](./340B-Fabric-Project/340B_Fabric_Portfolio_AsadPatel_Final07.26.pdf)**  
